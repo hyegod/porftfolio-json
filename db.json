@@ -29,25 +29,6 @@
         "role": "admin",
         "timeline": [
             {
-                "company_name": "CloudTech Innovations",
-                "summary": "Contributed to the development of a cloud-based SaaS platform for managing IT infrastructure.",
-                "sequence": 4,
-                "startDate": "2024-03-06T00:00:00.000Z",
-                "endDate": "2024-03-20T00:00:00.000Z",
-                "jobTitle": "Software Developer",
-                "jobLocation": "Austin, TX",
-                "bulletPoints": [
-                    "Developed microservices using Node.js and deployed them using Docker containers.",
-                    "\nImplemented user authentication and authorization using OAuth 2.0 and JWT tokens.",
-                    "\nIntegrated with cloud providers such as AWS and Azure to manage infrastructure resources.",
-                    "\nDesigned and implemented RESTful APIs for various platform features.",
-                    "\nCollaborated with DevOps engineers to automate deployment and testing processes."
-                ],
-                "forEducation": false,
-                "enabled": true,
-                "_id": "65f1fe4e0556c3f887e9db22"
-            },
-            {
                 "company_name": "ThePortfolyo",
                 "summary": "",
                 "sequence": 1,
@@ -158,26 +139,6 @@
                 "_id": "65b3ea4feb20546ae6d4641d"
             },
             {
-                "platform": "LinkedIn",
-                "url": "#",
-                "image": {
-                    "public_id": "1708718263294-2lfj67.webp",
-                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718263294-2lfj67.webp"
-                },
-                "enabled": true,
-                "_id": "65b3e99beb20546ae6d463c2"
-            },
-            {
-                "enabled": true,
-                "platform": "Twitter",
-                "url": "#",
-                "image": {
-                    "public_id": "1708718328750-d4jsq.webp",
-                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718328750-d4jsq.webp"
-                },
-                "_id": "65b3e47cb48589dfcae185bd"
-            },
-            {
                 "enabled": true,
                 "platform": "Facebook",
                 "url": "#",
@@ -234,28 +195,6 @@
                 "_id": "65b3e322b48589dfcae184d0",
                 "enabled": true
             },
-            {
-                "name": "Brand Consultant",
-                "charge": "$499",
-                "desc": "I build brands through cultural insights & strategic vision. Custom crafted business solutions.",
-                "image": {
-                    "public_id": "portfolio3/1710357680224-phijt.png",
-                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357680224-phijt.png"
-                },
-                "_id": "65b3e2f6b48589dfcae1843b",
-                "enabled": true
-            },
-            {
-                "name": "Wordpress Development",
-                "charge": "$499",
-                "desc": "Get yourself a website.",
-                "image": {
-                    "public_id": "portfolio3/1710357752227-6f5trs.jpeg",
-                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357752227-6f5trs.jpeg"
-                },
-                "_id": "65b3e2a6b48589dfcae183f2",
-                "enabled": true
-            }
         ],
         "testimonials": [
             {
@@ -269,17 +208,6 @@
                 "enabled": true,
                 "_id": "65f1fcdf0556c3f887e9d74c"
             },
-            {
-                "image": {
-                    "public_id": "portfolio3/1710357534893-2s9b5d.png",
-                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357534893-2s9b5d.png"
-                },
-                "name": "Sarah Johnson",
-                "review": "Working with John was an absolute delight. Their professionalism and technical prowess were evident from day one. He consistently delivered top-notch code and went above and beyond to ensure the success of our project. I highly recommend him for any development endeavor",
-                "position": " Product Manager",
-                "enabled": true,
-                "_id": "65f1fc1f0556c3f887e9d31d"
-            }
         ],
         "createdAt": "2024-01-26T12:14:36.514Z",
         "updatedAt": "2024-05-08T17:53:29.758Z",
