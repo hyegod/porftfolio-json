@@ -48,26 +48,6 @@
                 "_id": "65f1fe4e0556c3f887e9db22"
             },
             {
-                "company_name": "Digital Solutions Co.",
-                "summary": "Contributed to the development of a comprehensive CRM solution for enterprise clients.",
-                "sequence": 3,
-                "startDate": "2023-10-11T00:00:00.000Z",
-                "endDate": "2024-03-28T00:00:00.000Z",
-                "jobTitle": "Frontend Developer",
-                "jobLocation": "Seattle, WA",
-                "bulletPoints": [
-                    "Implemented user interface components using AngularJS and TypeScript.",
-                    "\nCollaborated with backend developers to integrate frontend components with RESTful APIs.",
-                    "\nDeveloped custom data visualizations and dashboards using D3.js and Chart.js.",
-                    "\nParticipated in sprint planning meetings and provided accurate estimates for feature development.",
-                    "\nConducted A/B tests and analyzed user feedback to iterate on product features.",
-                    ""
-                ],
-                "forEducation": false,
-                "enabled": true,
-                "_id": "65f1fe1e0556c3f887e9dab2"
-            },
-            {
                 "company_name": "ThePortfolyo",
                 "summary": "",
                 "sequence": 1,
@@ -136,7 +116,7 @@
                     "public_id": "1706285511679-xe7r9t",
                     "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706285511679-xe7r9t"
                 },
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+                "description": "Lorem ipsum dolor sit amet,",
                 "techStack": [
                     "Reactjs ",
                     " Nextjs ",
@@ -155,7 +135,7 @@
                     "public_id": "1706284812399-jr7rqj",
                     "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706284812399-jr7rqj"
                 },
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+                "description": "Lorem ipsum dolor sit amet,  ",
                 "techStack": [
                     "Reactjs ",
                     " Nextjs ",
