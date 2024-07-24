@@ -1,3 +1,4 @@
+
 {
     "success": true,
     "user": {
@@ -141,7 +142,7 @@
                 "jobTitle": "Software Engineer",
                 "jobLocation": "",
                 "bulletPoints": [
-                    "",
+                    ""
                 ],
                 "forEducation": false,
                 "enabled": true,
@@ -160,7 +161,7 @@
                 "jobTitle": "Web Developer",
                 "jobLocation": "",
                 "bulletPoints": [
-                    "",
+                    ""
                 ],
                 "forEducation": false,
                 "enabled": true,
@@ -179,7 +180,7 @@
                 "jobTitle": "Full Stack Developer",
                 "jobLocation": "",
                 "bulletPoints": [
-                    "",
+                    ""
                 ],
                 "forEducation": false,
                 "enabled": true,
@@ -892,3 +893,4 @@
         "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NWIzYTIyYzAxZDkwMGU5NmM0MjE5YWUiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3MTUxOTA4MDksImV4cCI6MTcyMjk2NjgwOX0.k-tY_xIiJ9e9nvtyjVPeY6-1Cij9kkvCEC53WmSX72M"
     }
 }
+
