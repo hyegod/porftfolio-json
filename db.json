@@ -1,17 +1,17 @@
 {
     "success": true,
     "user": {
-        "about": {
-            "name": "Godlift Farrelio",
+       "about": {
+            "name": "Godlift",
             "title": "Fullstack Developer",
-            "subTitle": "I develop 3D visuals, Apps and Web applications",
-            "description": "As a developer with 5 years of experience, I have honed my skills in JavaScript and am currently learning TypeScript to expand my expertise. I pride myself on being a quick learner and attentive listener, which allows me to collaborate effectively with clients to create efficient and scalable solutions. My focus is on developing user-friendly applications that solve real-world problems.",
-            "quote": "Live the Life as you want",
+            "subTitle": "I develop Applications, Web, and 3D visuals",
+            "description": "As a Fullstack Developer specializing in React and Laravel, I have honed my skills in JavaScript and am currently learning TypeScript to expand my expertise. My experience includes developing robust APIs using Laravel and integrating them seamlessly with React Native applications. I pride myself on being a quick learner and attentive listener, which allows me to collaborate effectively with clients to create efficient and scalable solutions. My focus is on developing user-friendly applications, web solutions, and engaging 3D visuals that solve real-world problems.",
+            "quote": "When strength fades, don't give up. When ability wanes, don't avoid. This is the journey to success.",
             "exp_year": "1",
-            "address": "Los Angeles , America",
+            "address": "Makassar, Indonesia",
             "some_total": "90",
-            "phoneNumber": "+91-9212321321",
-            "contactEmail": "portfolio3@gmail.com",
+            "phoneNumber": "+62 82292258500",
+            "contactEmail": "godliftmailbox@gmail.com"
             "avatar": {
                 "public_id": "portfolio3/1713995155677-122l5x.webp",
                 "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1713995155677-122l5x.webp"
@@ -24,8 +24,8 @@
             ]
         },
         "_id": "65b3a22c01d900e96c4219ae",
-        "username": "portfolio3",
-        "email": "portfolio3@gmail.com",
+        "username": "godlift",
+        "email": "godliftmailbox@gmail.com",
         "role": "admin",
         "timeline": [
             {
@@ -44,8 +44,27 @@
                     "\nWorked closely with frontend developers to design APIs and ensure smooth integration with the frontend."
                 ],
                 "forEducation": false,
-                "enabled": true,
+                "enabled": false,
                 "_id": "65f1fe900556c3f887e9db94"
+            },
+            {
+                "company_name": "CloudTech Innovations",
+                "summary": "Contributed to the development of a cloud-based SaaS platform for managing IT infrastructure.",
+                "sequence": 4,
+                "startDate": "2024-03-06T00:00:00.000Z",
+                "endDate": "2024-03-20T00:00:00.000Z",
+                "jobTitle": "Software Developer",
+                "jobLocation": "Austin, TX",
+                "bulletPoints": [
+                    "Developed microservices using Node.js and deployed them using Docker containers.",
+                    "\nImplemented user authentication and authorization using OAuth 2.0 and JWT tokens.",
+                    "\nIntegrated with cloud providers such as AWS and Azure to manage infrastructure resources.",
+                    "\nDesigned and implemented RESTful APIs for various platform features.",
+                    "\nCollaborated with DevOps engineers to automate deployment and testing processes."
+                ],
+                "forEducation": false,
+                "enabled": false,
+                "_id": "65f1fe4e0556c3f887e9db22"
             },
             {
                 "company_name": "Digital Solutions Co.",
@@ -64,7 +83,7 @@
                     ""
                 ],
                 "forEducation": false,
-                "enabled": true,
+                "enabled": false,
                 "_id": "65f1fe1e0556c3f887e9dab2"
             },
             {
@@ -82,14 +101,14 @@
                     "\nOptimized database queries and improved overall system performance.",
                     "\nConducted unit tests and participated in peer code reviews to ensure code quality.\n"
                 ],
-                "forEducation": true,
-                "enabled": true,
+                "forEducation": false,
+                "enabled": false,
                 "_id": "65f1fdef0556c3f887e9da44"
             },
             {
                 "company_name": "Tech Innovations Inc.",
                 "summary": "Contributed to the development of a cutting-edge mobile application aimed at revolutionizing the e-commerce industry.\n",
-                "sequence": 4,
+                "sequence": 1,
                 "icon": {
                     "public_id": "portfolio3/1710357917833-0mic4.png",
                     "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357917833-0mic4.png"
@@ -106,11 +125,11 @@
                     "Participated in daily stand-up meetings and sprint planning sessions."
                 ],
                 "forEducation": false,
-                "enabled": true,
+                "enabled": false,
                 "_id": "65f1fd9e0556c3f887e9d9d8"
             },
             {
-                "company_name": "ThePortfolyo",
+                "company_name": "",
                 "summary": "",
                 "sequence": 1,
                 "icon": {
@@ -119,17 +138,54 @@
                 },
                 "startDate": "2023-12-13T00:00:00.000Z",
                 "endDate": "2024-01-25T00:00:00.000Z",
-                "jobTitle": "Software Developer",
-                "jobLocation": "Bangalore",
+                "jobTitle": "Software Engineer",
+                "jobLocation": "",
                 "bulletPoints": [
-                    "Design and build full website",
-                    " Optimized Site ",
-                    " SEO implemented"
+                    "",
                 ],
-                "forEducation": true,
+                "forEducation": false,
                 "enabled": true,
-                "_id": "65b3e93feb20546ae6d46369"
+                "_id": "65b3e93feb20546ae6d46367869"
+            },
+             {
+                "company_name": "",
+                "summary": "",
+                "sequence": 2,
+                "icon": {
+                    "public_id": "1706289470834-siro83",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706289470834-siro83"
+                },
+                "startDate": "2023-12-13T00:00:00.000Z",
+                "endDate": "2024-01-25T00:00:00.000Z",
+                "jobTitle": "Web Developer",
+                "jobLocation": "",
+                "bulletPoints": [
+                    "",
+                ],
+                "forEducation": false,
+                "enabled": true,
+                "_id": "65b3e93f2346367869"
+            },
+             {
+                "company_name": "",
+                "summary": "",
+                "sequence": 3,
+                "icon": {
+                    "public_id": "1706289470834-siro83",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706289470834-siro83"
+                },
+                "startDate": "2023-12-13T00:00:00.000Z",
+                "endDate": "2024-01-25T00:00:00.000Z",
+                "jobTitle": "Full Stack Developer",
+                "jobLocation": "",
+                "bulletPoints": [
+                    "",
+                ],
+                "forEducation": false,
+                "enabled": true,
+                "_id": "65b3e96868734d46367869"
             }
+            
         ],
         "skills": [
             {
