@@ -48,25 +48,6 @@
                 "_id": "65f1fe900556c3f887e9db94"
             },
             {
-                "company_name": "CloudTech Innovations",
-                "summary": "Contributed to the development of a cloud-based SaaS platform for managing IT infrastructure.",
-                "sequence": 4,
-                "startDate": "2024-03-06T00:00:00.000Z",
-                "endDate": "2024-03-20T00:00:00.000Z",
-                "jobTitle": "Software Developer",
-                "jobLocation": "Austin, TX",
-                "bulletPoints": [
-                    "Developed microservices using Node.js and deployed them using Docker containers.",
-                    "\nImplemented user authentication and authorization using OAuth 2.0 and JWT tokens.",
-                    "\nIntegrated with cloud providers such as AWS and Azure to manage infrastructure resources.",
-                    "\nDesigned and implemented RESTful APIs for various platform features.",
-                    "\nCollaborated with DevOps engineers to automate deployment and testing processes."
-                ],
-                "forEducation": false,
-                "enabled": true,
-                "_id": "65f1fe4e0556c3f887e9db22"
-            },
-            {
                 "company_name": "Digital Solutions Co.",
                 "summary": "Contributed to the development of a comprehensive CRM solution for enterprise clients.",
                 "sequence": 3,
