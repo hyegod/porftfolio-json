@@ -31,7 +31,7 @@
             {
                 "company_name": "StartupX",
                 "summary": "Contributed to the development of a new social networking platform targeting niche communities.",
-                "sequence": 6,
+                "sequence": 1,
                 "startDate": "2023-11-13T00:00:00.000Z",
                 "endDate": "2024-03-13T00:00:00.000Z",
                 "jobTitle": "Backend Developer",
@@ -43,7 +43,7 @@
                     "\nImplemented real-time messaging features using WebSockets and Redis.",
                     "\nWorked closely with frontend developers to design APIs and ensure smooth integration with the frontend."
                 ],
-                "forEducation": true,
+                "forEducation": false,
                 "enabled": true,
                 "_id": "65f1fe900556c3f887e9db94"
             },
