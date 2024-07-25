@@ -249,6 +249,18 @@
                 },
                 "_id": "65b3e001b48589dfcae18245"
             },
+                        {
+                "enabled": true,
+                "name": "Laravel",
+                "sequence": 6,
+                "percentage": 90,
+                "image": {
+                    "public_id": "1706287104739-pm8en",
+                    "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706287104739-pm8en",
+                    "_id": "65b3e001b48589dfcae18246"
+                },
+                "_id": "65b3e001b48589dfcae18245"
+            },
             {
                 "enabled": true,
                 "name": "Node.js",
