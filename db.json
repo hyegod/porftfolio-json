@@ -734,7 +734,7 @@
         "social_handles": [
             {
                 "platform": "Instagram",
-                "url": "#",
+                "url": "https://instagram.com/godliftfarrelio",
                 "image": {
                     "public_id": "1708718250873-3038n7.webp",
                     "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718250873-3038n7.webp"
@@ -753,7 +753,7 @@
                 "_id": "65b3e99beb20546ae6d463c2"
             },
             {
-                "enabled": true,
+                "enabled": false,
                 "platform": "Twitter",
                 "url": "#",
                 "image": {
@@ -763,7 +763,7 @@
                 "_id": "65b3e47cb48589dfcae185bd"
             },
             {
-                "enabled": true,
+                "enabled": false,
                 "platform": "Facebook",
                 "url": "#",
                 "image": {
